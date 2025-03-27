@@ -1,6 +1,6 @@
 ## Air Bus Seat Management System
 
-This is a project mainly focuses on
+This is a project mainly focused on
 
 -Java array use cases
 -Java conditional and iterative loops
